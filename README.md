@@ -14,6 +14,6 @@ This document provides an index of all example applications in this repository.
 - **Key Features**:
   - UI content and canvas selection
   - Display of selected data in JSON format
-- **More Info**: [React Debugger README](/react-debugger/README.md)
+- **More Info**: [React Debugger README](/react-debugger)
 
 
