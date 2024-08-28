@@ -1,0 +1,56 @@
+{
+  "name": "react-debugger",
+  "type": "web",
+  "version": "2024.08.13.1723545914819",
+  "description": "A debugger app to further develop the UI api",
+  "display_name": "React Debugger",
+  "module": {
+    "admin_instance": {
+      "enabled": true
+    },
+    "ui_app": {
+      "enabled": true
+    },
+    "canvas": {
+      "enabled": true,
+      "shortcuts": {
+        "fullscreen": [
+          {
+            "id": "debugger-shortcut-edit-2",
+            "order_override": 200,
+            "icon": "thumbs-up"
+          },
+          {
+            "id": "debugger-shortcut-edit-1",
+            "order_override": 100,
+            "icon": "rocket-launch"
+          }
+        ],
+        "presentation": [
+          {
+            "id": "debugger-shortcut-edit-2",
+            "order_override": 200,
+            "icon": "ghost"
+          },
+          {
+            "id": "debugger-shortcut-edit-1",
+            "order_override": 100,
+            "icon": "face-smile"
+          }
+        ],
+        "edit": [
+          {
+            "id": "debugger-shortcut-edit-2",
+            "order_override": 200,
+            "icon": "apple-core"
+          },
+          {
+            "id": "debugger-shortcut-edit-1",
+            "order_override": 100,
+            "icon": "cat-space"
+          }
+        ]
+      }
+    }
+  }
+}
