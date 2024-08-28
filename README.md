@@ -4,8 +4,10 @@ This document provides an index of all example applications in this repository.
 
 ## Table of Contents
 
-1. [React Debugger](#react-debugger)
-
+- [Example Apps Index](#example-apps-index)
+  - [Table of Contents](#table-of-contents)
+  - [React Debugger](#react-debugger)
+  - [Video Tutorials](#video-tutorials)
 
 ## React Debugger
 
@@ -16,4 +18,11 @@ This document provides an index of all example applications in this repository.
   - Display of selected data in JSON format
 - **More Info**: [React Debugger README](/react-debugger)
 
+## Video Tutorials
 
+1. Use Pitcher app-dev-server
+
+<video width="100%" controls>
+  <source src="video-tutorials/1. Use Pitcher app-dev-server.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
