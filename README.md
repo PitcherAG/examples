@@ -20,7 +20,7 @@ This document provides an index of all example applications in this repository.
 
 ## Video Tutorials
 
-1. Use Pitcher app-dev-server
+1. [Use Pitcher app-dev-server](video-tutorials/1.%20Use%20Pitcher%20app-dev-server.webm)
 
 <video width="100%" controls>
   <source src="video-tutorials/1. Use Pitcher app-dev-server.webm" type="video/webm">
